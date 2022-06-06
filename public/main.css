@@ -513,13 +513,13 @@ textarea,
   order: 1;
 }
 .typeWindows-2-g3UY > .wordmark-2u86JB:before {
-  content: "ClearVision";
+  content: "";
   color: hsla(0deg, 0%, 100%, 0.7);
   font-size: 14px;
   text-shadow: 0 0 3px #000;
 }
 .typeWindows-2-g3UY > .wordmark-2u86JB:after {
-  content: "v6.3.0";
+  content: "";
   color: hsla(0deg, 0%, 100%, 0.3);
   font-family: var(--code-font);
   font-size: 10px;
